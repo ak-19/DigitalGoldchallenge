@@ -3,4 +3,4 @@ Problem named "DividingTheKingdom"
 
 
 <img src="cert.png" alt="cert shot"/>
-<a target="_blank" href="https://app.codility.com/cert/view/certCKRPKQ-CJZBRMTQRH4WU8MU/">https://app.codility.com/cert/view/certCKRPKQ-CJZBRMTQRH4WU8MU/</a>
+<a target="_blank" href="https://app.codility.com/cert/view/certCKRPKQ-CJZBRMTQRH4WU8MU/">Cert permanent link</a>
