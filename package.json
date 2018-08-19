@@ -1,0 +1,12 @@
+{
+  "name": "DigitalGoldchallenge",
+  "version": "1.0.0",
+  "description": "Codility Digital Gold challenge",
+  "scripts": {
+    "test": "jest --watch",
+    "debug": "node $NODE_DEBUG_OPTION solution.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
